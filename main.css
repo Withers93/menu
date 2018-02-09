@@ -1,0 +1,37 @@
+.full-menu {
+    width: 45%;
+    margin: auto;
+    height: 500px;
+    font-family: 'Slabo 27px', serif;
+    color: #333333;
+}
+
+ul {
+    list-style: none;
+}
+
+.title {
+    font-size: 24px;
+    padding: 15px 0px 0px 20px;
+}
+
+.description {
+    padding: 10px 20px;
+}
+
+h1 {
+    text-align: center;
+    padding: 25px 25px 0px 25px;
+    font-size: 35px;
+}
+
+h2 {
+    padding: 40px 0px 10px 0px;
+    font-size: 30px;
+    margin: 0px;
+}
+
+.brand {
+    font-family: 'Lobster', cursive;
+    color: red;
+}
